@@ -32,7 +32,6 @@ jobs:
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
 
-
           custom_instructions: |
             The project is already set up with all dependencies installed.
             The server is already running at localhost:3000. Logs from it
