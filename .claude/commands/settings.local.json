@@ -1,0 +1,6 @@
+{
+    "permmsions": {
+        "allow":["mcp__playwright"],
+        "deny":[]
+    }
+}
